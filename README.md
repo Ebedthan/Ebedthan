@@ -1,6 +1,6 @@
 I'm Anicet, a bioinformatician and biostatistician with a dual PhD, based in Côte d'Ivoire 🇨🇮. I currently hold an Assistant Professor position at Institut National Félix Houphouet-Boigny (INP-HB). My doctoral work sits at the intersection of computational biology and statistical modeling and I spend most of my time thinking about how to extract meaningful biological signal from complex, noisy data. My graduate education was pursued at INP-HB, where I received an Engineering degree in Crop Protection and a BS in Agronomy.
 
-My research interests include microbial ecology, Bayesian hierarchical modeling, and bioinformatics/statistical software development.
+My research interests include Ecology, Bayesian hierarchical modeling, and bioinformatics/statistical software development.
 
 I am currently more focused on Bayesian hierarchical modeling and statistical software development with upcoming public projects.
 
