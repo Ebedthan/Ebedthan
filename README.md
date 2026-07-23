@@ -7,11 +7,9 @@ I am currently more focused on Bayesian hierarchical modeling and statistical so
 I write most of my tools in [Rust](https://www.rust-lang.org/) for performance and reliability, and in R and Python for statistical and ecological workflows. Some of the tools I have developed and maintain are highlighted below:
 
 - [`xgt`](https://github.com/Ebedthan/xgt): Efficient and fast querying and parsing of GTDB taxonomic data
-- [`sabreur`](https://github.com/Ebedthan/sabreur): Fast and reliable demultiplexing tool for fastx files
 - [`hkgfinder`](https://github.com/Ebedthan/hkgfinder): HMM-based housekeeping gene finder for prokaryotic (meta)genomic data
-- [`hyperex`](https://github.com/Ebedthan/hyperex): Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences
-- [`chaoscoder`](https://github.com/Ebedthan/chaoscoder): Block-based integer chaos game representation for DNA sequences
 - [`cedar`](https://github.com/Ebedthan/cedar): Rapid neighbor-joining tree construction from sequences using mash distance
+- [`sabreur`](https://github.com/Ebedthan/sabreur): Fast and reliable demultiplexing tool for fastx files
 
 I have also written some books on probabilistic programming and Bayesian modeling:
 
