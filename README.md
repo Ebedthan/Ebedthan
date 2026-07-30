@@ -20,6 +20,6 @@ I have also written some books on probabilistic programming and Bayesian modelin
 - [`Modern Analysis of Variance`](https://ebedthan.github.io/maov): A book to master the analysis of variance in the modern context with R code.
 - [`Writing Statistical Models in Stan`](https://ebedthan.github.io/stan-handbook): A book to master Bayesian modeling with Stan.
 
-Outside of research and software, I am involved in agricultural technology education at the INPHB AgriTech' Fab Lab. I enjoy the challenge of building things that work well in resource-constrained environments.
+Outside of research and software, I am involved in agricultural technology education at the INPHB AgriTech's Fab Lab. I enjoy the challenge of building things that work well in resource-constrained environments.
 
 You can find more about my work at [ebedthan.github.io](https://ebedthan.github.io) or reach me by email.
