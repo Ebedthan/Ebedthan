@@ -12,7 +12,6 @@ Some of the tools I have developed and maintain are highlighted below:
 
 - [`cedar`](https://github.com/Ebedthan/cedar): Uncertainty-aware distance-based phylogenomics from Mash sketches
 - [`hkgfinder`](https://github.com/Ebedthan/hkgfinder): HMM-based housekeeping gene finder for prokaryotic (meta)genomic data
-- [`sabreur`](https://github.com/Ebedthan/sabreur): Fast and reliable demultiplexing tool for fastx files
 - [`xgt`](https://github.com/Ebedthan/xgt): Fast and flexible GTDB querying from the command line, built in Rust
 
 I have also written some books on probabilistic programming and Bayesian modeling:
