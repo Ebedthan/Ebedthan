@@ -1,10 +1,10 @@
 Hello! I'm Anicet. 
 
-I currently hold an Assistant Professor position at Institut National Félix Houphouet-Boigny (INP-HB, Côte d'Ivoire 🇨🇮). My research work sits at the intersection of computational biology and statistical modeling. 
+My research interests include Bayesian hierarchical modeling, bioinformatics/statistical software development and some Ecology. Therefore, I spend most of my time thinking about how to extract meaningful biological signal from complex, noisy data.
 
-I spend most of my time thinking about how to extract meaningful biological signal from complex, noisy data.
+I also hold an Assistant Professor position at Institut National Félix Houphouet-Boigny (INP-HB, Côte d'Ivoire 🇨🇮). 
 
-My research interests include Bayesian hierarchical modeling, bioinformatics/statistical software development and some Ecology.
+I am currently open to potential postdoctoral positions. Do you have a project you would like to work on? Contact me!
 
 I write most of my tools in Rust for performance and reliability, and in R and Python for statistical and ecological workflows. 
 
